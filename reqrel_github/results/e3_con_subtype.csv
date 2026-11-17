@@ -1,0 +1,5 @@
+con_type,base|M2 bidirectional,base|M3 bidirectional + Stage 3,large|M3 bidirectional + Stage 3
+modality,0.5,0.75,0.625
+negation,1.0,1.0,1.0
+numeric,1.0,1.0,1.0
+semantic,1.0,1.0,1.0

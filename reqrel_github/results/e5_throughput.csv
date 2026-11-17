@@ -1,0 +1,4 @@
+model,pairs,sec_per_pair_both_dirs
+small,64,0.10962346417187518
+base,64,0.21101641064061027
+large,64,0.7157092419375033

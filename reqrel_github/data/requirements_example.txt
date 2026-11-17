@@ -1,0 +1,8 @@
+The UAV shall fully charge in less than 3 hours.
+Charging the drone to full capacity is allowed to take up to 5 hours.
+The VehicleCore shall support virtual UAVs.
+The VehicleCore shall support up to three virtual UAVs.
+The UAV shall be able to fly above 700 feet.
+The drone's altitude must be limited to a maximum of 400 feet.
+The UAV shall periodically send the Pilot the power and estimated flight time remaining.
+At regular intervals the drone must report its remaining power and expected flight time to the pilot.

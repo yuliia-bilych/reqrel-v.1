@@ -1,0 +1,5 @@
+test,a_only_correct,b_only_correct,p_value
+base M2 vs base M1,60,13,2.3070738505242644e-08
+base M2 vs base M3,7,2,0.1796875
+base M2 vs large M2,16,11,0.44206833839416504
+contradiction: base M2 vs B1 cosine,177,4,2.886866931763008e-47

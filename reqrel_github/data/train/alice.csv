@@ -1,0 +1,66 @@
+﻿,Text1,Text2,Class
+0,The car must stand,The car must drive,simplex_contrary
+1,The hare must be black,The hare must be red,simplex_contrary
+2,"If the value of the signal RxySigAAA_QWERTZQwa exceeds 0 (A), the signal QWERTZ must be set to TRUE","If the parameter QWERTZQwQwhf_KayR is set to TRUE, the signal QWERTZ corresponds to the parameterisable value QWERTZQwQwhf_KayRQWERTZ.",alius_contrary
+3,The signal must be set equal to three,The signal must be set equal to 10,simplex_contrary
+4,"If x equals three, y must equal 4","If x equals three, y must equal 5",idem_contrary
+5,"If the car is red, y must equal 4","If the car is red, y must equal 5",idem_contrary
+6,"If the signal Pfx equals three, y must equal 4","If the signal Pfx equals three, y must equal 5",idem_contrary
+7,"When z equals three, y must equal 4","When x equals three, y must equal 5",alius_contrary
+8,"If the motorbike is red, y must equal 4","If the car is red, y must equal 5",alius_contrary
+9,"If the signal Aze is equal to three, y must be equal to 4","If the signal Pfx is equal to three, y must be equal to 5",alius_contrary
+10,"When x equals three and z equals 4, y must equal 4","When x equals three and z equals 4, y must equal 5",idem_contrary
+11,"If z is three and x is three, y must be 4","If x is three, y must be 5",alius_contrary
+12,"If the signal Aze equals three and the parameter p3j equals True, y must equal 4","If the signal Pfx equals three, y must equal 5",alius_contrary
+13,x must be less than 12,x must be less than 10,simplex_subaltern
+14,x must be between 10 and 20,x must be between 12 and 20,simplex_subaltern
+15,x must be between 10 and 20,x must be 15,simplex_subaltern
+16,"When it rains, x must be between 10 and 20","When I sing, x must be between 12 and 15",alius_subaltern
+17,"When it rains, x must be between 10 and 20","When it rains, x must be between 12 and 15",idem_subaltern
+18,It must rain,It must not rain,simplex_contradictory
+19,x must equal three,x must not equal three,simplex_contradictory
+20,x must equal three,x must equal four,idem_contradictory
+21,"If it rains, x must equal 3","If it rains, x must not equal 3",idem_contradictory
+22,"If y equals 4, x must equal 3","If z equals 4, x must not equal 3",alius_contradictory
+23,The car must be red,The car door must be blue,simplex_contrary
+24,The car must stand,The car must drive when it snows,idem_contrary
+25,"If z equals three, y must equal 4","If x equals three, y must equal 5",alius_contrary
+26,"If it is raining, x must equal 3","If it is cold, x must not equal 3",alius_contradictory
+27,Amy and I must fight him,Neither Amy nor I have fought him,simplex_contrary
+28,It must be fun for adults and children,It must be fun for children only,simplex_contrary
+29,"If the value of the signal RxySigAAA_QWERTZQwaOfOnBdQwkur exceeds 0 (A), the value of the module output signal QWERTZTickCons must be set to TRUE. ","If the parameter QWERTZQwQwhf_KayRForQWERTZTickConsToBF2_C is set to TRUE, the signal QWERTZTickCons corresponds to the parameterisable value QWERTZQwQwhf_KayRQWERTZTickCons_C",alius_contrary
+30,"If the value of the signal RxySigAAA_QWERTZQwaOfOnBdQwkur exceeds the value of 0 (A), the value of the module output signal QWERTZTickCons must be set to TRUE",If the parameter QWERTZQwQwhf_KayRForQWERTZTickConsToBF2_C is not TRUE the signal QWERTZTickCons is forwarded unchanged,alius_contrary
+31,"If RxySigAAA_xyzWW111 = 0, RxySigAAA_UyzyzSing = 0","If RxySigAAA_NocOfxyz111 != 1, RxySigAAA_UyzyzSing is not manipulated",alius_contrary
+32,"If RxySigAAA_xyzWW111 != 0, RxySigAAA_UyzyzSing is not manipulated","as soon as RxySigAAA_NocOfxyz111= 1, RxySigAAA_UyzyzSing = 0 is set",alius_contrary
+33,"If the signal RxySigAAA_xyzWW111 == false, the internal signal APH_Rxy_TT on the PlausnBus is set to = 1","If the signal RxySigAAA_NocOfxyz1832 == false, the internal signal APH_Rxy_TT on the PlausnBus is set to = 0",alius_contrary
+34,"After the time LuxBrandg_TiMaxAtzZz7OfBrandg_C has elapsed, the internal heater level LuxBrandg_popoBrandg = LuxBrandg_zZzReqOfBrandgOld.","If the calculated enable LuxBrandg_stRls == 0, then the internal heater level LuxBrandg_popoBrandg = 0.",alius_contrary
+35,"After the LuxBrandg_TiMaxAtzZz7OfBrandg_C time has elapsed, the internal heater level is LuxBrandg_popoBrandg = LuxBrandg_zZzReqOfBrandgOld.","If the heater level requested by the HMI is RxySigAAA_BF2ForBrandgCtrlByNautr == 0, then the internal heater level is LuxBrandg_popoBrandg = 0.",alius_contrary
+36,"If the status of the venting LuxBrandg_stAirVntl == 1, the requested power LuxBrandg_SpOfCoolt50C (in %) corresponds to the value LuxBrandg_TrigForAirVentn_C. ","If the actual heater level LuxBrandg_popoBrandg > 0, the requested power LuxBrandg_SpOfCoolt50C (in %) is determined by the characteristic LuxBrandg_TrigForDutyCycOfCoolt50C_Qwa based on the heater level LuxBrandg_popoBrandgInt.",alius_contrary
+37,"If the heater level LuxBrandg_popoBrandg > 0, then the PTC switch-on signal LuxBrandg_ConsnFlgOfBrandr = 1. ",The signal LuxBrandg_ConsnFlgOfBrandr is overwritten by the parameter LuxBrandg_KayRForConsnFlgOfBrandr_C if the parameter LuxBrandg_KayRForConsnFlgOfBrandrToBF2_C == 1,alius_contrary
+38,The XYZ duty cycle LuxBrandg_DutyCycOfBrandrCoolt50C for controlling the pump is determined by the characteristic curve based on the requested power LuxBrandg_SpOfCoolt50C (in %). ,The signal LuxBrandg_DutyCycOfBrandrCoolt50C is overwritten by the parameter LuxBrandg_KayRForDutyCycOfBrandrCoolt50C_C if the parameter LuxBrandg_KayRForDutyCycOfBrandrCoolt50CToBF2_C == 1.,idem_contrary
+39,"If the signal CoolgssoB_ConsnFlgByStsOfSigElisr == FALSE, the signal CoolgssoB_DutyCycOfWtr50CInDt must be driven with parameterisable the duty cycle CoolgssoB_NoPwrDmdOfWtr50C123_C. ","If the signal CoolgssoB_ZhonAirVentOf50CInCoolg == 1, the signal CoolgssoB_DutyCycOfWtr50CInDt is controlled with the substitute value CoolgssoB_DutyCycOfWtr50CInDtInMntnMod_C.",alius_contrary
+40,"If the cooling is inQwtiv (CoolgssoB_ConsnFlgByStsOfSigElisr == FALSE), the signal CoolgssoB_StsOfCoolgssoB == 0.",Qwtivated venting function sets the signal CoolgssoB_StsOfCoolgssoB == 1.,alius_contrary
+41,"If the signal oOoAnOfEQwae_UOfTOfWtrVayInDtOutOfMF == 1 and the signal RxySigRe_ZhonSigElisrAtLvl1 assumes the state SigElisr_Init, with a delay time LyssgKaynt_DebDravOorDiag_C the error LyssgKaynt_TTOfSnsrTAftPt assumes the value ==1. ","If the parameter LyssgKaynt_KayRForTTOfSnsrTAftPtToBF2_C == 1, the value of the signal LyssgKaynt_TTOfSnsrTAftPt corresponds to the calibratable default value LyssgKaynt_KayRForTTOfSnsrTAftPt_C.",alius_contrary
+42,"If the signal oOoAnOfEQwae_UOfTOfWtrVayForAuxOutOfMF == 1 and the signal RxySigRe_ZhonSigElisrAtLvl1 assumes the state SigElisr_Init, with a delay time LyssgKaynt_DebDravOorDiag_C the error LyssgKaynt_TTOfAcsy50C assumes the value ==1. ","If the parameter LyssgKaynt_KayRForTTOfAcsy50CToBF2_C == 1 is set, the value of the signal LyssgKaynt_TTOfAcsy50C corresponds to the calibratable default value LyssgKaynt_KayRForTTOfAcsy50C_C.",alius_contrary
+43,"""The safe state is """"Drive torque-free""."""," ""The safe state is """"No disturbance rate"".""",simplex_contrary
+44,The safe state must be TTeicht within 800ms.,The safe state must be TTeicht within 500ms.,simplex_Kayset
+45,Suitable equipotential bonding is required for all conductive covers of all HV components.,"If additional external conductive enclosures or covers are fitted over covers or enclosures that consist of solid insulating zones, equipotential bonding is not required for these.",alius_contrary
+46,The application must be scalable to meet increasing demand.,The application must integrate easily with other existing software systems.,0
+47,"When it rains, the car must stop","When it rains, the car must flash",0
+48,The car must stop when it rains,The car must flash when it rains,0
+49,The car must stop,The car must flash,0
+50,"If the value of the signal RxySigAAA_QWERTZQwa exceeds the value 0 (A), the signal QWERTZ must be set to TRUE.","If the parameter QWERTZQwQwhf_KayR is set to TRUE, the signal Kirn corresponds to the parameterisable value QWERTZQwQwhf_KayRQWERTZ.",0
+51,"If the value of the signal RxySigAAA_QWERTZQwa exceeds 0 (A), the signal QWERTZ must be set to TRUE","If the value of the signal RxySigAAA_QWERTZQwa does not exceed 0 (A), the signal QWERTZ must be set to False",0
+52,The signal must be set equal to three,The signal Chern must be set equal to 10,0
+53,"If x equals three, y must equal 4","If x equals four, y must equal 5",0
+54,"If the car is red, y must equal 4","If the car is blue, y must equal 5",0
+55,"If the signal Pfx equals three, y must equal 4","If the signal Pfx equals three, z must equal 5",0
+56,"If the motorbike is red, y must equal 4","If the car is red, z must equal 5",0
+57,"If the signal Aze is equal to three, y must be equal to 4","If the signal Aze is not equal to three, y must be equal to 5",0
+58,"If x equals three and z equals 4, y must equal 4","If x equals 4 and z equals 4, y must equal 5",0
+59,"If z is three and x is three, y must be 4","If x is three, z must be 5",0
+60,"If the motorbike and the car are red, y must equal 5","If the motorbike and the car are blue, y must equal 6",0
+61,"If the signal Aze is equal to three and the parameter p3j is equal to True, y must be equal to 4","If the signal Pfx is equal to three, z must be equal to 5",0
+62,It must be raining,It must be cold,0
+63,x must equal three,y must not equal three,0
+64,x must be three,y must be 4,0

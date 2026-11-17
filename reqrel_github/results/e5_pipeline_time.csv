@@ -1,0 +1,2 @@
+corpus,n,all_pairs,candidates,stage1_sec,method_total_sec_est,exhaustive_sec_est,n1000_method_pairs,n1000_exhaustive_pairs,n5000_method_pairs,n5000_exhaustive_pairs
+worldvista,148,10878,302,2.849157118000221,66.57611313146452,2295.4365149485584,3000,499500,15000,12497500

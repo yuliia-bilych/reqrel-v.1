@@ -1,0 +1,82 @@
+{
+ "Керування безпілотниками (UAV / Dronology), набір 1": [
+  "When the GCS loses the connection to an UAV, the GCS shall attempt to reconnect every 5 seconds for up to one minute.",
+  "A route that names a particular drone identifier must be assigned by the scheduler to that drone.",
+  "If a route contains a specific UAV_ID, the SingleUAVFlightPlanScheduler shall assign the route to the given UAV.",
+  "When the GCS loses the connection to an UAV, the GCS shall attempt to reconnect.",
+  "When a UAV is selected, the RouteAssignmentUI shall display UAV's active flight plans.",
+  "The route assignment screen shall hide the active flight plans of a drone when it is selected."
+ ],
+ "Керування безпілотниками (UAV / Dronology), набір 2": [
+  "The VehicleCore shall support virtual UAVs.",
+  "The UAV shall fully charge in less than 3 hours.",
+  "The VehicleCore must work with physical drones only and reject simulated ones.",
+  "When a route is assigned from a UAV, the RouteAssignmentUI shall notify Dronology through the GCS middleware within one second.",
+  "A complete recharge of the drone must take under three hours.",
+  "When a route is assigned from a UAV, the RouteAssignmentUI shall notify Dronology."
+ ],
+ "Безпілотник для спостереження (IBM-UAV), набір 1": [
+  "A single adult shall be able to lift and carry the UAV.",
+  "The UAV shall maintain attitude (roll, pitch, and yaw) within 2 degrees in the presence of calm to moderate winds.",
+  "The Aviary shall provide a remote surveillance from the air of a location within 20 miles of the origin.",
+  "The Aviary's aerial surveillance range shall not exceed 5 miles from the origin.",
+  "One adult person must be capable of lifting and carrying the drone alone.",
+  "The UAV shall maintain attitude (roll, pitch, and yaw) in the presence of calm to moderate winds."
+ ],
+ "Безпілотник для спостереження (IBM-UAV), набір 2": [
+  "At regular intervals the drone must report its remaining power and expected flight time to the pilot.",
+  "Remote surveillance should support a mission of 2 hours without a recharge",
+  "The UAV flight range shall be no less than 20 miles.",
+  "The UAV shall periodically send the Pilot the power and estimated flight time remaining.",
+  "The UAV flight range shall be no less than 20 miles with a full payload.",
+  "A surveillance mission must be interrupted for recharging after at most 1 hour of flight."
+ ],
+ "Медична інформаційна система (WorldVista), набір 1": [
+  "In the pilot program, medication orders must be signed digitally by means of a smart card.",
+  "Faxing of prescriptions to pharmacies shall not be supported by the system.",
+  "The system's pilot program shall use a smart card to digitally sign medication orders.",
+  "The system shall provide a way to limit the users or sites that have access to remote retrievable data.",
+  "The system shall provide a way for administrators to limit the users or sites that have access to remote retrievable data by role.",
+  "The system shall include the ability to print prescriptions for signature and fax prescriptions to a local pharmacy with an electronic signature."
+ ],
+ "Медична інформаційна система (WorldVista), набір 2": [
+  "The user class hierarchy shall be limited to at most three levels of subclasses.",
+  "The system shall audit sensitive records, enabling a site to follow up on a record accessed by a remote location.",
+  "Access to sensitive records must be audited so that a site can follow up when a remote location opens a record.",
+  "The system shall allow infinite hierarchies of subclasses to be created in the User Hierarchy Class structure.",
+  "The system shall allow clinicians to create patient lists for who can sign or cosign for each other.",
+  "The system shall allow attending physicians to create patient lists for who can sign or cosign for each other."
+ ],
+ "Керування опаленням (PURE / THEMAS), набір 1": [
+  "Each thermostat shall have a unique identifier by which that thermostat is identified in the THEMAS system.",
+  "The THEMAS system shall compare the reported temperature value to the temperature setting every 30 seconds and detect when the temperature value exceeds the specified limits.",
+  "Several thermostats may share the same identifier in the THEMAS system.",
+  "The THEMAS system shall compare the reported temperature value to the temperature setting and detect when the temperature value exceeds the specified limits.",
+  "There shall be a maximum number of heating or cooling units that can be on at any given time.",
+  "The number of heating or cooling units running simultaneously must be limited by an upper bound."
+ ],
+ "Керування опаленням (PURE / THEMAS), набір 2": [
+  "When a request to turn off a heating or cooling unit is received, this process shall check the queue of waiting heating and cooling requests.",
+  "The THEMAS system should record each event by a description for that event.",
+  "The series of beeps shall continue until the supervisor manually resets the alarm through the supervisor’s interface window by entering a password.",
+  "THEMAS may record events without any description.",
+  "On receiving a request to switch off a heating or cooling unit, the process must inspect the queue of pending heating and cooling requests.",
+  "The series of beeps shall continue until the supervisor manually resets the alarm through the supervisor’s interface window."
+ ],
+ "Платформа сертифікації безпеки (OpenCOSS), набір 1": [
+  "The OPENCOSS platform shall provide users with the ability to select an existing evidence characterization model from a shared library for an assurance project.",
+  "When an evidence traceability link of an assurance project has been affected by evidence item changes, the OPENCOSS platform shall colour such a link in red.",
+  "The OPENCOSS platform shall be able to generate reports about the body of evidence of an assurance project by means of documents in PDF, RTF, and MS Word formats.",
+  "Traceability links affected by evidence changes shall be displayed in green.",
+  "Evidence reports of an assurance project must be exportable as PDF, RTF and Word documents.",
+  "The OPENCOSS platform shall provide users with the ability to select an existing evidence characterization model for an assurance project."
+ ],
+ "Платформа сертифікації безпеки (OpenCOSS), набір 2": [
+  "Users must be able to edit the data of evidence items belonging to an assurance project.",
+  "The OPENCOSS platform shall be able to generate reports about the body of evidence of an assurance project in the form of HTML files.",
+  "The OPENCOSS platform shall provide users with the ability to import evidence items for an assurance project from artefacts in an external tool in ReqIF format.",
+  "The OPENCOSS platform shall not produce evidence reports in HTML format.",
+  "The OPENCOSS platform shall provide users with the ability to modify the information of the evidence items of an assurance project.",
+  "The OPENCOSS platform shall provide users with the ability to import evidence items for an assurance project from artefacts in an external tool."
+ ]
+}

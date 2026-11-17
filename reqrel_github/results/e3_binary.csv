@@ -1,0 +1,10 @@
+method,task,P,R,F
+B1 cosine threshold (corpora),related vs neutral,0.746606334841629,0.9166666666666666,0.8229426433915212
+base|M2 bidirectional,related vs neutral,0.900523560209424,0.9555555555555556,0.9272237196765498
+base|M3 bidirectional + Stage 3,related vs neutral,0.900523560209424,0.9555555555555556,0.9272237196765498
+large|M3 bidirectional + Stage 3,related vs neutral,0.8913043478260869,0.9111111111111111,0.9010989010989011
+B1 cosine threshold (corpora),contradiction vs rest,0.20361990950226244,0.75,0.3202846975088968
+base|M1 one-direction,contradiction vs rest,0.8666666666666667,0.8666666666666667,0.8666666666666667
+base|M2 bidirectional,contradiction vs rest,0.8,0.9333333333333333,0.8615384615384616
+base|M3 bidirectional + Stage 3,contradiction vs rest,0.7341772151898734,0.9666666666666667,0.8345323741007195
+large|M3 bidirectional + Stage 3,contradiction vs rest,0.75,0.95,0.8382352941176471

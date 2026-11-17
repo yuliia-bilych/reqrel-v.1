@@ -1,0 +1,6 @@
+corpus,n,all_pairs,candidates,flagged,flagged_dup,flagged_ref,flagged_con,conflicts,conflicts_flagged,conflicts_as_contradiction
+uav,115,6555,245,134,3,23,108,17,17,13
+worldvista,148,10878,302,118,2,24,92,35,28,17
+pure,67,2211,134,71,7,19,45,20,20,10
+opencoss,117,6786,242,145,27,88,30,10,10,1
+ibmuav,103,5253,206,120,20,41,59,13,10,7
